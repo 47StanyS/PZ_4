@@ -1,0 +1,14 @@
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\bin\Debug\net8.0\ArraysInclude.exe
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\bin\Debug\net8.0\ArraysInclude.deps.json
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\bin\Debug\net8.0\ArraysInclude.runtimeconfig.json
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\bin\Debug\net8.0\ArraysInclude.dll
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\bin\Debug\net8.0\ArraysInclude.pdb
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\obj\Debug\net8.0\ArraysInclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\obj\Debug\net8.0\ArraysInclude.AssemblyInfoInputs.cache
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\obj\Debug\net8.0\ArraysInclude.AssemblyInfo.cs
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\obj\Debug\net8.0\ArraysInclude.csproj.CoreCompileInputs.cache
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\obj\Debug\net8.0\ArraysInclude.dll
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\obj\Debug\net8.0\refint\ArraysInclude.dll
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\obj\Debug\net8.0\ArraysInclude.pdb
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\obj\Debug\net8.0\ArraysInclude.genruntimeconfig.cache
+C:\Users\20082\Desktop\програмування\ПЗ_1\PZ_4\ArraysInclude\ArraysInclude\obj\Debug\net8.0\ref\ArraysInclude.dll

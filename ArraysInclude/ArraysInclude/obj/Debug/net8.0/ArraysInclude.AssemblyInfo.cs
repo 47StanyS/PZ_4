@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArraysInclude")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c149b83355d1ac752f0185c4f4fb087ebd98fea4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArraysInclude")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArraysInclude")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
