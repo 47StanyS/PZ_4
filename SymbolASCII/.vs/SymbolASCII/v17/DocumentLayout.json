@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\20082\\source\\repos\\SymbolASCII\\",
+  "WorkspaceRootPath": "C:\\Users\\20082\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041F\u0417_1\\PZ_4\\SymbolASCII\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AE6B3B7-E67F-46CB-B0D8-47FE55FFDC16}|SymbolASCII\\SymbolASCII.csproj|c:\\users\\20082\\source\\repos\\symbolascii\\symbolascii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AE6B3B7-E67F-46CB-B0D8-47FE55FFDC16}|SymbolASCII\\SymbolASCII.csproj|c:\\users\\20082\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u043F\u0437_1\\pz_4\\symbolascii\\symbolascii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AE6B3B7-E67F-46CB-B0D8-47FE55FFDC16}|SymbolASCII\\SymbolASCII.csproj|solutionrelative:symbolascii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\20082\\source\\repos\\SymbolASCII\\SymbolASCII\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\20082\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041F\u0417_1\\PZ_4\\SymbolASCII\\SymbolASCII\\Program.cs",
               "RelativeDocumentMoniker": "SymbolASCII\\Program.cs",
-              "ToolTip": "C:\\Users\\20082\\source\\repos\\SymbolASCII\\SymbolASCII\\Program.cs",
+              "ToolTip": "C:\\Users\\20082\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\\u041F\u0417_1\\PZ_4\\SymbolASCII\\SymbolASCII\\Program.cs",
               "RelativeToolTip": "SymbolASCII\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T17:57:12.203Z",
               "EditorCaption": ""
